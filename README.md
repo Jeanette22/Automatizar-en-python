@@ -7,7 +7,7 @@ probar algo diferente de lo que estuve haciendo.
 Mi objetivo fue realizar esto como práctica, y analizar cómo usarlo en mis tareas cotidianas de manera útil, 
 y también sigo investigando las diferentes áreas donde se puede aplicar, y agilizar tiempos para extrar datos de una web, 
 informarse, estar atento a algún tema, etc. 
-Aún sigo aprendiendo pero esto es algo que puede hacer gracias a los pasos y cursos que ofrece el Instituto Humai, siguiendo al profe
+Aún sigo aprendiendo pero este proyectito es algo que logré hacer gracias a los pasos y cursos que ofrece el Instituto Humai, siguiendo al profe
 y probando los ejercicios con otras páginas. 
 
 ## Cuestiones Técnicas: 
